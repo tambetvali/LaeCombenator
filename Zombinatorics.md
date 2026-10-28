@@ -115,3 +115,7 @@ Y zooms out: in octave system, it does 2.0, 2\1 outwards iteration, one step of 
 ---
 
 It turns X to linear, newtonian-eucleidean-pythagorean realm of linears and whole tesimals and numbers; Y to macrospace, edges which connect inside infinities with outside units through degrees, and to theory of relativity, macroscale, maxwell. Material, mental and spiritual - hermetic know of Kybalion as Z, X, Y (matter, mind, spirit).
+
+Xombenator is self-attention: at X, it combines it's own space with resulting time, and detects paradoxes. X stand-oscillation is also self-zoom, relating like Hamilton to Time, to it's original value reflection - it zooms into self-definition. It's the next-order value of it's own definition, from state to goal to Time to Hamilton, Schroedinger Energy Relation.
+
+Zeta, Exceeta, Theta of Laegna alphabet are opposite, external zooms of each letter.
