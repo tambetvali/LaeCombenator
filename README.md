@@ -1,3 +1,7 @@
+![Laegna Logecs Combenator](LaeCombenator.png)
+
+<br>
+
 # Laegna Logecs Combenator
 
 Laegna Logecs Combenator is used for listing and floating of all of the Combenations.
