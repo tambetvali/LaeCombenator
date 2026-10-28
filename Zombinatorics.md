@@ -1,3 +1,7 @@
+![Zombe Caption](CombeCaption.png)
+
+<br>
+
 # Z-Combenator
 
 **Zombenator**: by replacing first letter with highest-rank property, leaving relative sizes the same. This suits naturally to every relative combenatorecs in Laegna Math.
@@ -119,3 +123,9 @@ It turns X to linear, newtonian-eucleidean-pythagorean realm of linears and whol
 Xombenator is self-attention: at X, it combines it's own space with resulting time, and detects paradoxes. X stand-oscillation is also self-zoom, relating like Hamilton to Time, to it's original value reflection - it zooms into self-definition. It's the next-order value of it's own definition, from state to goal to Time to Hamilton, Schroedinger Energy Relation.
 
 Zeta, Exceeta, Theta of Laegna alphabet are opposite, external zooms of each letter.
+
+---
+
+<br>
+
+![Zombe Logos](CombeLogon.png)
