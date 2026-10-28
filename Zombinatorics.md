@@ -111,3 +111,7 @@ Z zooms in: in octave system, it does 0.5, 1/2 iteration, one step of recursive 
 X zooms stand: it gets outwards and inwards, precision of selected cell or focal point higher, while the exterior space precision goes down; so both inwards and outwards are zoomed at the same time and the point *localized*.
 
 Y zooms out: in octave system, it does 2.0, 2\1 outwards iteration, one step of recursive two up, opposite of half down in Saareemaan double-no (we use "ei mitte", two no's, for single no, in certain sense, but this can be done in English). In continuous system, dimensionality grows by creating all combinations of space, in terms of H_int and H_ext. What grows is hologram complexity, multidimensionally.
+
+---
+
+It turns X to linear, newtonian-eucleidean-pythagorean realm of linears and whole tesimals and numbers; Y to macrospace, edges which connect inside infinities with outside units through degrees, and to theory of relativity, macroscale, maxwell. Material, mental and spiritual - hermetic know of Kybalion as Z, X, Y (matter, mind, spirit).
